@@ -20,14 +20,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>appcare-releases</id>
       <name>appcare-releases</name>
-      <url>http://ec2-15-207-98-208.ap-south-1.compute.amazonaws.com:8081/repository/appcare-releases/</url>
+      <url>http://ec2-15-207-98-208.ap-south-1.compute.amazonaws.com:8081/repository/appcare-releases</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>appcare-snapshots/</id>
       <name>appcare-snapshots</name>
-      <url>http://ec2-15-207-98-208.ap-south-1.compute.amazonaws.com:8081/repository/appcare-snapshots/</url>
+      <url>http://ec2-15-207-98-208.ap-south-1.compute.amazonaws.com:8081/repository/appcare-snapshots</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
