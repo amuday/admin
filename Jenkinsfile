@@ -4,7 +4,7 @@ node("maven-label") {
       
         //git branch: 'dev', url: 'https://github.com/appcare-dev/admin.git'
         checkout scm
-        mvnHome = tool 'maven-3.6.3'
+       // mvnHome = tool 'maven-3.6.3'
     }
     stage('Build') {
       
